@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843141863014",
+    "project_id": "email-authentication-aa377",
+    "storage_bucket": "email-authentication-aa377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843141863014:android:ec3fcbd5b91ffc12c77fa7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_email_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANC-isBBKc_2e_EU4g50dehoq8krKlxLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
